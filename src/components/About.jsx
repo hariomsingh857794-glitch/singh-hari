@@ -6,7 +6,7 @@ function About() {
             <div className="about-main">
                 <h2 className="section-title"></h2>
                   <p className="about-text">
-            I'm a Third-year B.Tech (CS) student at SEAT College of
+            I'm a Third-year B.Tech (CS) student at SHEAT College of
             Engineering, Varanasi. I enjoy turning ideas into working
             websites, and I've spent the last year building projects
             with the MERN stack.
